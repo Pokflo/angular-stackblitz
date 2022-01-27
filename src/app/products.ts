@@ -8,24 +8,23 @@ export interface Product {
 export const products = [
   {
     id: 1,
-    name: 'Phone XL',
+    name: 'Jeu XL',
     price: 799,
-    description: 'A large phone with one of the best screens'
+    description: 'Un grand jeu avec une des meilleures conceptions graphiques',
   },
   {
     id: 2,
-    name: 'Phone Mini',
+    name: 'Jeu Mini',
     price: 699,
-    description: 'A great phone with one of the best cameras'
+    description: 'Un jeu avec des graphisme originaux',
   },
   {
     id: 3,
-    name: 'Phone Standard',
+    name: 'Jeu Standard',
     price: 299,
-    description: ''
-  }
+    description: '',
+  },
 ];
-
 
 /*
 Copyright Google LLC. All Rights Reserved.
